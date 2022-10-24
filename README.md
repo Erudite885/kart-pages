@@ -1,5 +1,8 @@
 ## Cart Page
 
+site is live at 
+https://erudite885.github.io/kart-pages/
+
 Scaffolding Your First Vite Project
 
 Compatibility Note Vite requires Node.js version 14.18+, 16+. However, some templates require a higher Node.js version to work, please upgrade if your package manager warns about it.
